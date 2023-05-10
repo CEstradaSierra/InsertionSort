@@ -1,4 +1,4 @@
-
+//********* */
 function generacionArray(num){
     //quiero que reciba un numero entero(numero de elementos del array) y me genere un array que tenga el numero de elementos deseados
     let arreglo=[];
